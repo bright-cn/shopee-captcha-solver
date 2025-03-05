@@ -1,6 +1,6 @@
 # Shopee 验证码解决方案
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/shopee)
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/shopee)
 
 使用 Bright Data 的先进验证码解决技术，轻松绕过 Shopee 验证码。结合机器学习算法、[自动化 IP 轮换](https://www.bright.cn/solutions/rotating-proxies) 以及强大的代理基础架构，确保对目标网站的无缝稳定访问。
 
